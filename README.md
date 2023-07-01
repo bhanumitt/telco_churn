@@ -6,3 +6,4 @@ Customer Churn is a loss of customers that the businesses face over a period of 
 
 [Here](https://medium.com/@bhaanum/an-end-to-end-data-science-project-on-customer-churn-with-shap-prediction-fa95649b823d) is a blog which you can refer to understand more about the project. 
 
+[Here](https://nbviewer.org/github/bhanumitt/telco_churn/blob/master/analysis.ipynb) is the analysis render and code to see it with all the graphs inline. 
